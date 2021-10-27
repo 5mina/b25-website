@@ -7,10 +7,10 @@ the name shall be in full and camel case for 1.0.0
 
 versions after 1.0.0 will have a compact name instead of the name it already had (i.e. placeHolder becomes ph). some deviation will be allowed if said compact name was already taken.
 
-subnames can be added to add a little spice to the changes in the new version. only add them along with minor and major patches.
+subnames can be added to add a little spice to the changes in the new version. only add them along with minor and major versions.
 
 ### modified semver
-• major - restructuring
+• major - code restructuring
 
 • minor - adding, deleting, or modifying a feature
 
