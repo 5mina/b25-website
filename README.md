@@ -1,7 +1,7 @@
 # github versioning
 
 ## format:
-[name]_[major].[minor].[patch]_(subname)
+[name] _ [major] . [minor] . [patch] _ (subname)
 
 the name shall be in full and camel case for 1.0.0
 
