@@ -8,7 +8,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Titillium+Web&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
 	<style>
-		<?php 
+		<?php
 		$css = file_get_contents('style.css');
 		echo $css; ?>
 	</style>
@@ -26,7 +26,7 @@
 				<td>MENU</td>
 				<td><a href="sub/forum/index.php">FORUMS</a></td>
 				<td>MEDIA</td>
-				<td>ACADS</td>
+				<td><a href="sub/gwa/gwaCalcBeta2.php"></a></td>
 			</tr>
 		</table>
 	</div>
