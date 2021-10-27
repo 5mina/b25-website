@@ -26,7 +26,7 @@
 				<td>MENU</td>
 				<td><a href="sub/forum/index.php">FORUMS</a></td>
 				<td>MEDIA</td>
-				<td><a href="sub/gwa/gwaCalcBeta2.php"></a></td>
+				<td><a href="sub/gwa/gwaCalcBeta2.php">ACADS</a></td>
 			</tr>
 		</table>
 	</div>
