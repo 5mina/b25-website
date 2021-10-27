@@ -10,11 +10,11 @@ versions after 1.0.0 will have a compact name instead of the name it already had
 subnames can be added to add a little context to the changes in the new version. only add them along with minor and major patches.
 
 ### modified semver
-• major - deleting a file
+• major - restructuring
 
-• minor - adding and modifying files
+• minor - adding, deleting, or modifying a feature
 
-• patch - modifying file contents
+• patch - modifying files
 
 # rules
 • using camel case for file names is highly recommended
