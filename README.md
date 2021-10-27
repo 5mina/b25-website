@@ -1,7 +1,11 @@
 # github versioning
 
 ## format:
+<<<<<<< HEAD
 [name]_[major].[minor].[patch]_(subname)
+=======
+[name]_[major].[minor].[patch]-[subname]
+>>>>>>> 3a8d0378f66e937aefb838390e208d53a34d49f1
 
 the name shall be in full and camel case for 1.0.0
 
@@ -17,4 +21,8 @@ subnames can be added to add a little context to the changes in the new version.
 • patch - modifying file contents
 
 # rules
+<<<<<<< HEAD
 • using camel case for file names is highly recommended
+=======
+• using camel case for file names is highly recommended
+>>>>>>> 3a8d0378f66e937aefb838390e208d53a34d49f1
