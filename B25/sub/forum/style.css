@@ -1,0 +1,15 @@
+body{
+    color: black;
+    font-family: Gemunu Libre;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+pre{
+    font-family: Gemunu Libre;
+    font-size: 20px;
+}
+
+div.forum{
+    width: 100%;
+}
