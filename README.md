@@ -18,3 +18,5 @@ subnames can be added to add a little spice to the changes in the new version. o
 
 # rules
 • using camel case for file names is highly recommended
+
+• the utilization of branches while developing a certain feature is mandatory • there shall be a meeting before committing to the repository be it a major, minor, or patch update
