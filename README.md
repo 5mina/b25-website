@@ -12,9 +12,9 @@ subnames can be added to add a little spice to the changes in the new version. o
 ### modified semver
 • major - code restructuring
 
-• minor - adding, deleting, or modifying a feature
+• minor - adding, deleting, or major feature modification
 
-• patch - modifying files
+• patch - file and minor feature modification
 
 # rules
 • using camel case for file names is highly recommended
