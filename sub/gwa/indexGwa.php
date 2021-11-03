@@ -11,16 +11,46 @@
 
     $gwa = $bio = $chem = $phys = $math = $stats = $eng = $fili = $socsci = $comsci = $pehm = 0;
 
-    $bio = $_POST["bio"];
-    $chem = $_POST["chem"];
-    $phys = $_POST["phys"];
-    $math = $_POST["math"];
-    $stats = $_POST["stats"];
-    $eng = $_POST["eng"];
-    $fili = $_POST["fili"];
-    $socsci = $_POST["socsci"];
-    $comsci = $_POST["comsci"];
-    $pehm = $_POST["pehm"];
+    if (empty($_POST["bio"])) {
+    } else {
+        $bio = $_POST["bio"];
+    }
+    if (empty($_POST["chem"])) {
+    } else {
+        $chem = $_POST["chem"];
+    }
+    if (empty($_POST["phys"])) {
+    } else {
+        $phys = $_POST["phys"];
+    }
+    if (empty($_POST["math"])) {
+    } else {
+        $math = $_POST["math"];
+    }
+    if (empty($_POST["stats"])) {
+    } else {
+        $stats = $_POST["stats"];
+    }
+    if (empty($_POST["eng"])) {
+    } else {
+        $eng = $_POST["eng"];
+    }
+    if (empty($_POST["fili"])) {
+    } else {
+        $fili = $_POST["fili"];
+    }
+    if (empty($_POST["socsci"])) {
+    } else {
+        $socsci = $_POST["socsci"];
+    }
+    if (empty($_POST["comsci"])) {
+    } else {
+        $comsci = $_POST["comsci"];
+    }
+    if (empty($_POST["pehm"])) {
+    } else {
+        $pehm = $_POST["pehm"];
+    }
 
     ?>
 
