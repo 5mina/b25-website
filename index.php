@@ -15,27 +15,31 @@
 </head>
 
 <body>
-	<div class="head">
-		FILEGROS
-		<div class="date"><?php echo date("d/m/Y"); ?></div>
-	</div>
-	<div class="nav">
-		<table>
-			<tr>
-				<td>LOGO</td>
-				<td>MENU</td>
-				<td><a href="sub/forum/index.php">FORUMS</a></td>
-				<td>MEDIA</td>
-				<td><a href="sub/gwa/indexGwa.php">ACADS</a></td>
-			</tr>
-		</table>
-	</div>
-	<div class="boxes" style="display:none">
-		<div class="box1"></div>
-		<div class="box2"></div>
-		<div class="box3"></div>
-		<div class="box4"></div>
-	</div>
+	<header>
+		<div class="h">
+			Header
+			<br>
+			<div class="title">
+				Title
+			</div>
+			<div class="date">
+				Date
+			</div>
+		</div>
+	</header>
+	<nav>
+   <div class="n">
+      Navigation
+   </div>
+	</nav>
+  <div class="b">
+    Body
+  </div>
+	<footer>
+    <div class="f">
+      Footer
+    </div>
+	</footer>
 </body>
 
 </html>
